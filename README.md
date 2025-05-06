@@ -1,6 +1,6 @@
 # Algoritmo Genético para o Problema da Mochila 0/1
 
-##Academicos: Antonio Favarin Freire, Agos Dalsin, Gustavo Schineider Rodrigues
+## Academicos: Antonio Favarin Freire, Agos Dalsin, Gustavo Schineider Rodrigues
 
 ## Introdução
 
