@@ -1,5 +1,7 @@
 # Algoritmo Genético para o Problema da Mochila 0/1
 
+##Academicos: Antonio Favarin Freire, Agos Dalsin, Gustavo Schineider Rodrigues
+
 ## Introdução
 
 O problema da mochila 0/1 (Knapsack Problem) é um problema clássico de otimização combinatória: dado um conjunto de itens, cada um com um peso e um valor, determinar quais itens devem ser incluídos em uma coleção para que o peso total seja menor ou igual a um limite dado e o valor total seja maximizado.
